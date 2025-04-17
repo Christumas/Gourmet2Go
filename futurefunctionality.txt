@@ -1,0 +1,8 @@
+Add a testimony card carousel so you can have a few testimones visible
+Make a column footer to display social media 
+
+Now when designing for mobile 
+    my vision is the hero section picture becomes the background with reduced opacity
+    with the brand message being overlayed 
+    we could go for the usual hamburger menu or a side bar. Let's try both designs
+    Quick order section will have a column layout
